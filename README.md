@@ -1,6 +1,6 @@
 # jni-rust
 
-Java JNI example using Rust.
+Java JNI example using Rust. (Based on https://github.com/jni-rs/jni-rs)
 
 This is an example project for developing a library with JNI extension based on Rust code.
 
