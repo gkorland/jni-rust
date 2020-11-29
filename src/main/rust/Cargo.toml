@@ -1,0 +1,11 @@
+[package]
+name = "helloworld"
+version = "0.1.0"
+authors = ["Josh Chase <josh@prevoty.com>"]
+edition = "2018"
+
+[dependencies]
+jni = "0.18.0" 
+
+[lib]
+crate_type = ["cdylib"]
