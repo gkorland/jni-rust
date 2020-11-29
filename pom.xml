@@ -7,25 +7,27 @@
 	<groupId>jnirs</groupId>
 	<artifactId>jnirs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JNI-rs</name>
+	<name>JNI-Rust</name>
 	<description></description>
-	<url></url>
+	<url>https://github.com/gkorland/jni-rust</url>
 
 	<mailingLists>
 	</mailingLists>
 
-	<licenses>
-		<license>
-			<name>MIT</name>
-			<url>http://github.com/xetorthio/jedis/raw/master/LICENSE.txt</url>
-			<distribution>repo</distribution>
-		</license>
-	</licenses>
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
 	<issueManagement>
+	<url>https://github.com/gkorland/jni-rust/issues</url>
 	</issueManagement>
 
 	<scm>
+	<url>https://github.com/gkorland/jni-rust</url>
 	</scm>
 
 
