@@ -8,4 +8,3 @@ lib:
 	cd src/main/rust && cargo build --release
 	mkdir -p target/NATIVE/amd64/Linux
 	cp src/main/rust/target/release/libhelloworld.so target/NATIVE/amd64/Linux
-	
