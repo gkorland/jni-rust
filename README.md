@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/gkorland/jni-rust/workflows/Java%20CI%20with%20Maven/badge.svg)](https://github.com/gkorland/jni-rust/actions)
+
 # jni-rust
 
 Java JNI example using Rust.
